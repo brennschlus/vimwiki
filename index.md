@@ -1,10 +1,7 @@
 # INDEX
 
-# Zettelkasten
+* [Zettelkastten](Zettelkasten)
 
-* [vimwiki](vimwiki)
-* org-mode
-* foam
 
-# VIM
+### VIM
 
