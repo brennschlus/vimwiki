@@ -6,5 +6,5 @@ Test *italic* **bold**
 
 
 ### Backlinks
-* [zettelkasten](zettelkasten)
+* [Zettelkasten](zettelkasten)
 * [index](index)
