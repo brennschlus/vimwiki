@@ -1,4 +1,5 @@
 ---
+layot: post
 title: Zettelkasten: система и програмное обеспечение
 ---
 
