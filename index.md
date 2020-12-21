@@ -1,4 +1,6 @@
-# INDEX
+---
+title: INDEX
+---
 
 * [Zettelkastten](Zettelkasten)
 * [Как стать философом](Как стать философом)

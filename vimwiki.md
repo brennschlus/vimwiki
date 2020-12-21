@@ -1,4 +1,6 @@
-# VIMWIKI
+---
+title: VIMWIKI
+---
 
 ### Markdown
 
