@@ -8,3 +8,4 @@ date +"%m%d%y%H%M" - уникальное название для новой з�
  
  ### BACKLINKS
  * [index](index)
+ * [VIMWIKI](vimwiki)
