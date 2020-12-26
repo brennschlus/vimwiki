@@ -6,10 +6,10 @@ title: INDEX
 
 * [Zettelkastten](Zettelkasten)
 * [Как стать философом](Как стать философом)
-
 ### TAGS
 
 * [Философия](Философия)
+* [Продуктивность](Продуктивность)
 
 ### VIM
 * [Timestamp](Timestamp)
