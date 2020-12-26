@@ -10,6 +10,7 @@ Test *italic* **bold**
 
 ### VIM
 * [Копировать, вырезать, вставить](Копировать, вырезать, вставить)
+* [Timestamp](Timestamp)
 
 ### Backlinks
 * [Zettelkasten](Zettelkasten)
