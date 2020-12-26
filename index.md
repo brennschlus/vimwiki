@@ -12,4 +12,4 @@ title: INDEX
 * [Продуктивность](Продуктивность)
 
 ### VIM
-* [Timestamp](Timestamp)
+
