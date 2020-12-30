@@ -11,6 +11,10 @@ Vimwiki - личная вики для Vim
 * Ведения дневинка
 * Экспорта в HTML
 
+### Разметка
+* [Markdown](Markdown)
+* Vimwiki
+* VikiMedia
 * [Jekkyl Markdown](Jekkyl Markdown)
 
 ### VIM
