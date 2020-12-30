@@ -2,9 +2,14 @@
 title: VIMWIKI
 ---
 
-### Markdown
+Vimwiki - личная вики для Vim
 
-Test *italic* **bold**
+Подходит для:
+* Организации заметок и идей
+* To-do листов
+* Написания документации
+* Ведения дневинка
+* Экспорта в HTML
 
 * [Jekkyl Markdown](Jekkyl Markdown)
 
