@@ -1,5 +1,6 @@
 ---
 title: INDEX
+modified: 2020-12-31T15:56:25+03:00
 ---
 
 ### Вики моих мыслей и знаний
@@ -19,10 +20,5 @@ title: INDEX
 * [How to take smart notes](How to take smart notes)
 
 
-
-
-
-
-
-
-
+### TO-DO
+* [ ] Phone
